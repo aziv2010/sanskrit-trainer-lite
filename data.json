@@ -1,0 +1,1560 @@
+{
+  "asanas": [
+    {
+      "id": "L1-001",
+      "name": "Tadasana",
+      "family": "Standing",
+      "parts": [
+        "Tada",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת ההר"
+    },
+    {
+      "id": "L1-002",
+      "name": "Vrksasana",
+      "family": "Standing",
+      "parts": [
+        "Vrksa",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת העץ"
+    },
+    {
+      "id": "L1-003",
+      "name": "Utthita Trikonasana",
+      "family": "Standing",
+      "parts": [
+        "Utthita",
+        "Trikona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המשולש המתוח"
+    },
+    {
+      "id": "L1-004",
+      "name": "Parivrtta Trikonasana",
+      "family": "Standing",
+      "parts": [
+        "Parivrtta",
+        "Trikona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המשולש המסובב"
+    },
+    {
+      "id": "L1-005",
+      "name": "Utthita Parsvakonasana",
+      "family": "Standing",
+      "parts": [
+        "Utthita",
+        "Parsva",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת זווית הצד המתוחה"
+    },
+    {
+      "id": "L1-006",
+      "name": "Parivrtta Parsvakonasana",
+      "family": "Standing",
+      "parts": [
+        "Parivrtta",
+        "Parsva",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת זווית הצד המסובבת"
+    },
+    {
+      "id": "L1-007",
+      "name": "Virabhadrasana I",
+      "family": "Standing",
+      "parts": [
+        "Virabhadra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הלוחם הראשונה"
+    },
+    {
+      "id": "L1-008",
+      "name": "Virabhadrasana II",
+      "family": "Standing",
+      "parts": [
+        "Virabhadra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הלוחם השנייה"
+    },
+    {
+      "id": "L1-009",
+      "name": "Virabhadrasana III",
+      "family": "Standing",
+      "parts": [
+        "Virabhadra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הלוחם השלישית"
+    },
+    {
+      "id": "L1-010",
+      "name": "Ardha Chandrasana",
+      "family": "Standing",
+      "parts": [
+        "Ardha",
+        "Chandra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת חצי הירח"
+    },
+    {
+      "id": "L1-011",
+      "name": "Utthita Hasta Padangusthasana I with support",
+      "family": "Standing",
+      "parts": [
+        "Utthita",
+        "Hasta",
+        "Padangustha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת היד האוחזת בבוהן הרגל המורמת, גרסה ראשונה, עם תמיכה"
+    },
+    {
+      "id": "L1-012",
+      "name": "Utthita Hasta Padangusthasana II with support",
+      "family": "Standing",
+      "parts": [
+        "Utthita",
+        "Hasta",
+        "Padangustha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת היד האוחזת בבוהן הרגל המורמת, גרסה שנייה, עם תמיכה"
+    },
+    {
+      "id": "L1-013",
+      "name": "Parsvottanasana",
+      "family": "Standing",
+      "parts": [
+        "Parsva",
+        "Uttana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המתיחה העזה של צדי הגוף"
+    },
+    {
+      "id": "L1-014",
+      "name": "Prasarita Padottanasana I",
+      "family": "Standing",
+      "parts": [
+        "Prasarita",
+        "Pada",
+        "Uttana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המתיחה העזה בפישוק רגליים, גרסה ראשונה"
+    },
+    {
+      "id": "L1-015",
+      "name": "Utkatasana",
+      "family": "Standing",
+      "parts": [
+        "Utkata",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הכיסא"
+    },
+    {
+      "id": "L1-016",
+      "name": "Padangusthasana",
+      "family": "Standing",
+      "parts": [
+        "Padangustha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת אחיזת בוהנות הרגליים"
+    },
+    {
+      "id": "L1-017",
+      "name": "Padahastasana",
+      "family": "Standing",
+      "parts": [
+        "Pada",
+        "Hasta",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הידיים מתחת לכפות הרגליים"
+    },
+    {
+      "id": "L1-018",
+      "name": "Uttanasana",
+      "family": "Standing",
+      "parts": [
+        "Uttana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המתיחה העזה קדימה"
+    },
+    {
+      "id": "L1-019",
+      "name": "Garudasana",
+      "family": "Standing",
+      "parts": [
+        "Garuda",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הנשר"
+    },
+    {
+      "id": "L1-020",
+      "name": "Dandasana",
+      "family": "Sitting",
+      "parts": [
+        "Danda",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת המוט"
+    },
+    {
+      "id": "L1-021",
+      "name": "Swastikasana",
+      "family": "Sitting",
+      "parts": [
+        "Swastika",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת סווסטיקה"
+    },
+    {
+      "id": "L1-022",
+      "name": "Parvatasana in Swastikasana",
+      "family": "Sitting",
+      "parts": [
+        "Parvata",
+        "Asana",
+        "Swastika",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת ההר בישיבת סווסטיקה"
+    },
+    {
+      "id": "L1-023",
+      "name": "Gomukhasana",
+      "family": "Sitting",
+      "parts": [
+        "Go",
+        "Mukha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת פני הפרה"
+    },
+    {
+      "id": "L1-024",
+      "name": "Siddhasana",
+      "family": "Sitting",
+      "parts": [
+        "Siddha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת החכם המושלם"
+    },
+    {
+      "id": "L1-025",
+      "name": "Virasana",
+      "family": "Sitting",
+      "parts": [
+        "Vira",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הגיבור"
+    },
+    {
+      "id": "L1-026",
+      "name": "Parvatasana in Virasana",
+      "family": "Sitting",
+      "parts": [
+        "Parvata",
+        "Asana",
+        "Vira",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת ההר בישיבת הגיבור"
+    },
+    {
+      "id": "L1-027",
+      "name": "Baddha Konasana",
+      "family": "Sitting",
+      "parts": [
+        "Baddha",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הזווית הקשורה"
+    },
+    {
+      "id": "L1-028",
+      "name": "Upavistha Konasana",
+      "family": "Sitting",
+      "parts": [
+        "Upavistha",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 35,
+      "he": "תנוחת הזווית בישיבה בפישוק"
+    },
+    {
+      "id": "L1-029",
+      "name": "Adho Mukha Virasana",
+      "family": "Forward extensions",
+      "parts": [
+        "Adho",
+        "Mukha",
+        "Vira",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הגיבור הפונה מטה"
+    },
+    {
+      "id": "L1-030",
+      "name": "Janu Sirsasana",
+      "family": "Forward extensions",
+      "parts": [
+        "Janu",
+        "Sirsa",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הראש אל הברך"
+    },
+    {
+      "id": "L1-031",
+      "name": "Trianga Mukhaikapada Paschimottanasana",
+      "family": "Forward extensions",
+      "parts": [
+        "Trianga",
+        "Mukha",
+        "Eka",
+        "Pada",
+        "Paschima",
+        "Uttana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת המתיחה קדימה עם רגל אחת מקופלת לאחור"
+    },
+    {
+      "id": "L1-032",
+      "name": "Marichyasana I",
+      "family": "Forward extensions",
+      "parts": [
+        "Marichya",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת החכם מריצ׳י הראשונה"
+    },
+    {
+      "id": "L1-033",
+      "name": "Parsva Upavistha Konasana",
+      "family": "Forward extensions",
+      "parts": [
+        "Parsva",
+        "Upavistha",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הזווית בישיבה בפישוק, בנטייה לצד"
+    },
+    {
+      "id": "L1-034",
+      "name": "Paschimottanasana (Ugrasana/Brahmacharyasana)",
+      "family": "Forward extensions",
+      "parts": [
+        "Paschima",
+        "Uttana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת המתיחה העזה של החלק האחורי של הגוף"
+    },
+    {
+      "id": "L1-035",
+      "name": "Malasana II",
+      "family": "Forward extensions",
+      "parts": [
+        "Mala",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת המאלה השנייה"
+    },
+    {
+      "id": "L1-036",
+      "name": "Parighasana",
+      "family": "Lateral extensions",
+      "parts": [
+        "Parigha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הבריח"
+    },
+    {
+      "id": "L1-037",
+      "name": "Bharadvajasana I",
+      "family": "Lateral extensions",
+      "parts": [
+        "Bharadvaja",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת החכם בהראדוואג׳ה הראשונה"
+    },
+    {
+      "id": "L1-038",
+      "name": "Bharadvajasana II",
+      "family": "Lateral extensions",
+      "parts": [
+        "Bharadvaja",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת החכם בהראדוואג׳ה השנייה"
+    },
+    {
+      "id": "L1-039",
+      "name": "Marichyasana III",
+      "family": "Lateral extensions",
+      "parts": [
+        "Marichya",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת החכם מריצ׳י השלישית"
+    },
+    {
+      "id": "L1-040",
+      "name": "Ardha Matsyendrasana I",
+      "family": "Lateral extensions",
+      "parts": [
+        "Ardha",
+        "Matsyendra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת חצי מטסיינדרה הראשונה"
+    },
+    {
+      "id": "L1-041",
+      "name": "Salamba Sirsasana I",
+      "family": "Inversions",
+      "parts": [
+        "Salamba",
+        "Sirsa",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "עמידת ראש נתמכת, גרסה ראשונה"
+    },
+    {
+      "id": "L1-042",
+      "name": "Salamba Sarvangasana I",
+      "family": "Inversions",
+      "parts": [
+        "Salamba",
+        "Sarvanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "עמידת כתפיים נתמכת, גרסה ראשונה"
+    },
+    {
+      "id": "L1-043",
+      "name": "Halasana",
+      "family": "Inversions",
+      "parts": [
+        "Hala",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת המחרשה"
+    },
+    {
+      "id": "L1-044",
+      "name": "Parsva Halasana",
+      "family": "Inversions",
+      "parts": [
+        "Parsva",
+        "Hala",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת המחרשה לצד"
+    },
+    {
+      "id": "L1-045",
+      "name": "Karnapidasana",
+      "family": "Inversions",
+      "parts": [
+        "Karna",
+        "Pida",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת לחץ הברכיים על האוזניים"
+    },
+    {
+      "id": "L1-046",
+      "name": "Parsva Karnapidasana",
+      "family": "Inversions",
+      "parts": [
+        "Parsva",
+        "Karna",
+        "Pida",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת לחץ הברכיים על האוזניים לצד"
+    },
+    {
+      "id": "L1-047",
+      "name": "Supta Konasana",
+      "family": "Inversions",
+      "parts": [
+        "Supta",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הזווית בשכיבה"
+    },
+    {
+      "id": "L1-048",
+      "name": "Eka Pada Sarvangasana",
+      "family": "Inversions",
+      "parts": [
+        "Eka",
+        "Pada",
+        "Sarvanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "עמידת כתפיים עם רגל אחת"
+    },
+    {
+      "id": "L1-049",
+      "name": "Parsvaika Pada Sarvangasana",
+      "family": "Inversions",
+      "parts": [
+        "Parsva",
+        "Eka",
+        "Pada",
+        "Sarvanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "עמידת כתפיים עם רגל אחת לצד"
+    },
+    {
+      "id": "L1-050",
+      "name": "Chatushpadasana",
+      "family": "Inversions",
+      "parts": [
+        "Chatushpada",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת ארבע הרגליים"
+    },
+    {
+      "id": "L1-051",
+      "name": "Setubandha Sarvangasana (with support)",
+      "family": "Inversions",
+      "parts": [
+        "Setubandha",
+        "Sarvanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הגשר בעמידת כתפיים, עם תמיכה"
+    },
+    {
+      "id": "L1-052",
+      "name": "Setubandha Sarvangasana (from Sarvangasana, with bent knees, feet dropping to wall or chair)",
+      "family": "Inversions",
+      "parts": [
+        "Setubandha",
+        "Sarvanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 36,
+      "he": "תנוחת הגשר בעמידת כתפיים, מתוך עמידת כתפיים עם ברכיים כפופות וכפות רגליים על קיר או כיסא"
+    },
+    {
+      "id": "L1-053",
+      "name": "Paripurna Navasana",
+      "family": "Abdominal contraction",
+      "parts": [
+        "Paripurna",
+        "Nava",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הסירה המלאה"
+    },
+    {
+      "id": "L1-054",
+      "name": "Ardha Navasana",
+      "family": "Abdominal contraction",
+      "parts": [
+        "Ardha",
+        "Nava",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת חצי הסירה"
+    },
+    {
+      "id": "L1-055",
+      "name": "Urdhva Prasarita Padasana (90°)",
+      "family": "Abdominal contraction",
+      "parts": [
+        "Urdhva",
+        "Prasarita",
+        "Pada",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הרגליים המתוחות מעלה בזווית 90 מעלות"
+    },
+    {
+      "id": "L1-056",
+      "name": "Supta Padangusthasana I",
+      "family": "Abdominal contraction",
+      "parts": [
+        "Supta",
+        "Padangustha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת אחיזת בוהן הרגל בשכיבה, גרסה ראשונה"
+    },
+    {
+      "id": "L1-057",
+      "name": "Supta Padangusthasana II",
+      "family": "Abdominal contraction",
+      "parts": [
+        "Supta",
+        "Padangustha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת אחיזת בוהן הרגל בשכיבה, גרסה שנייה"
+    },
+    {
+      "id": "L1-058",
+      "name": "Salabhasana",
+      "family": "Backward extensions",
+      "parts": [
+        "Salabha",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הארבה"
+    },
+    {
+      "id": "L1-059",
+      "name": "Makarasana",
+      "family": "Backward extensions",
+      "parts": [
+        "Makara",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת המקארה (התנין)"
+    },
+    {
+      "id": "L1-060",
+      "name": "Dhanurasana",
+      "family": "Backward extensions",
+      "parts": [
+        "Dhanur",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הקשת"
+    },
+    {
+      "id": "L1-061",
+      "name": "Bhujangasana I",
+      "family": "Backward extensions",
+      "parts": [
+        "Bhujanga",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הקוברה הראשונה"
+    },
+    {
+      "id": "L1-062",
+      "name": "Urdhva Mukha Svanasana",
+      "family": "Backward extensions",
+      "parts": [
+        "Urdhva",
+        "Mukha",
+        "Svana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הכלב הפונה מעלה"
+    },
+    {
+      "id": "L1-063",
+      "name": "Ustrasana",
+      "family": "Backward extensions",
+      "parts": [
+        "Ustra",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הגמל"
+    },
+    {
+      "id": "L1-064",
+      "name": "Urdhva Dhanurasana I",
+      "family": "Backward extensions",
+      "parts": [
+        "Urdhva",
+        "Dhanur",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הקשת הפונה מעלה, גרסה ראשונה"
+    },
+    {
+      "id": "L1-065",
+      "name": "Dwi Pada Viparita Dandasana (chair)",
+      "family": "Backward extensions",
+      "parts": [
+        "Dwi",
+        "Pada",
+        "Viparita",
+        "Danda",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת המוט ההפוך על שתי רגליים, בתמיכת כיסא"
+    },
+    {
+      "id": "L1-066",
+      "name": "Supta Swastikasana",
+      "family": "Restorative",
+      "parts": [
+        "Supta",
+        "Swastika",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת סווסטיקה בשכיבה"
+    },
+    {
+      "id": "L1-067",
+      "name": "Supta Virasana (supported and not supported)",
+      "family": "Restorative",
+      "parts": [
+        "Supta",
+        "Vira",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הגיבור בשכיבה, עם תמיכה או בלעדיה"
+    },
+    {
+      "id": "L1-068",
+      "name": "Supta Baddha Konasana",
+      "family": "Restorative",
+      "parts": [
+        "Supta",
+        "Baddha",
+        "Kona",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הזווית הקשורה בשכיבה"
+    },
+    {
+      "id": "L1-069",
+      "name": "Savasana",
+      "family": "Restorative",
+      "parts": [
+        "Sava",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הגופה"
+    },
+    {
+      "id": "L1-070",
+      "name": "Savasana (on the bolster with eyes covered, observing the normal in breath and out breath)",
+      "family": "Restorative",
+      "parts": [
+        "Sava",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הגופה על בולסטר עם כיסוי עיניים ונשימה רגילה"
+    },
+    {
+      "id": "L1-071",
+      "name": "Savasana (with eye band, normal in breath and deep out breath)",
+      "family": "Restorative",
+      "parts": [
+        "Sava",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הגופה עם כיסוי עיניים, שאיפה רגילה ונשיפה עמוקה"
+    },
+    {
+      "id": "L1-072",
+      "name": "Chaturanga Dandasana",
+      "family": "Arm balancing",
+      "parts": [
+        "Chatur",
+        "Anga",
+        "Danda",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת המוט על ארבע גפיים"
+    },
+    {
+      "id": "L1-073",
+      "name": "Adho Mukha Svanasana",
+      "family": "Arm balancing",
+      "parts": [
+        "Adho",
+        "Mukha",
+        "Svana",
+        "Asana"
+      ],
+      "optional": false,
+      "page": 37,
+      "he": "תנוחת הכלב הפונה מטה"
+    },
+    {
+      "id": "L1-074",
+      "name": "Pincha Mayurasana",
+      "family": "Arm balancing",
+      "parts": [
+        "Pincha",
+        "Mayura",
+        "Asana"
+      ],
+      "optional": true,
+      "page": 37,
+      "he": "תנוחת הטווס על האמות"
+    },
+    {
+      "id": "L1-075",
+      "name": "Adho Mukha Vrksasana",
+      "family": "Arm balancing",
+      "parts": [
+        "Adho",
+        "Mukha",
+        "Vrksa",
+        "Asana"
+      ],
+      "optional": true,
+      "page": 37,
+      "he": "עמידת ידיים, תנוחת העץ הפונה מטה"
+    },
+    {
+      "id": "L1-076",
+      "name": "Tittibhasana (from Uttanasana)",
+      "family": "Arm balancing",
+      "parts": [
+        "Tittibha",
+        "Asana"
+      ],
+      "optional": true,
+      "page": 37,
+      "he": "תנוחת הגחלילית, מתוך אוטנאסנה"
+    }
+  ],
+  "words": [
+    {
+      "id": "W-001",
+      "latin": "Adho",
+      "he": "מטה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-002",
+      "latin": "Anga",
+      "he": "איבר",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-003",
+      "latin": "Anguli",
+      "he": "אצבע",
+      "exam": true,
+      "level": false,
+      "uncertain": false
+    },
+    {
+      "id": "W-004",
+      "latin": "Ardha",
+      "he": "חצי",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-005",
+      "latin": "Asana",
+      "he": "תנוחה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-006",
+      "latin": "Baddha",
+      "he": "קשור",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-007",
+      "latin": "Bharadvaja",
+      "he": "בהראדוואג׳ה (שם חכם)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-008",
+      "latin": "Bhujanga",
+      "he": "קוברה / נחש",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-009",
+      "latin": "Chandra",
+      "he": "ירח",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-010",
+      "latin": "Chatur",
+      "he": "ארבע",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-011",
+      "latin": "Chatushpada",
+      "he": "ארבע רגליים",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-012",
+      "latin": "Danda",
+      "he": "מוט / מקל",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-013",
+      "latin": "Dhanur",
+      "he": "קשת",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-014",
+      "latin": "Dwi",
+      "he": "שתיים",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-015",
+      "latin": "Eka",
+      "he": "אחד",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-016",
+      "latin": "Garuda",
+      "he": "גארודה (דמות מיתולוגית)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-017",
+      "latin": "Go",
+      "he": "פרה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-018",
+      "latin": "Hala",
+      "he": "מחרשה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-019",
+      "latin": "Hasta",
+      "he": "יד",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-020",
+      "latin": "Janu",
+      "he": "ברך",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-021",
+      "latin": "Karna",
+      "he": "אוזן",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-022",
+      "latin": "Kona",
+      "he": "זווית",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-023",
+      "latin": "Makara",
+      "he": "מקארה (יצור מיתולוגי)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-024",
+      "latin": "Mala",
+      "he": "זר / מחרוזת",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-025",
+      "latin": "Marichya",
+      "he": "מריצ׳י (שם חכם)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-026",
+      "latin": "Matsya",
+      "he": "דג",
+      "exam": true,
+      "level": false,
+      "uncertain": false
+    },
+    {
+      "id": "W-027",
+      "latin": "Matsyendra",
+      "he": "מטסיינדרה (שם חכם)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-028",
+      "latin": "Mayura",
+      "he": "טווס",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-029",
+      "latin": "Mukha",
+      "he": "פנים / פונה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-030",
+      "latin": "Nava",
+      "he": "סירה",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-031",
+      "latin": "Pada",
+      "he": "כף רגל / רגל",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-032",
+      "latin": "Padangustha",
+      "he": "בוהן הרגל",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-033",
+      "latin": "Padma",
+      "he": "לוטוס",
+      "exam": true,
+      "level": false,
+      "uncertain": false
+    },
+    {
+      "id": "W-034",
+      "latin": "Parigha",
+      "he": "בריח / שער",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-035",
+      "latin": "Paripurna",
+      "he": "מלא / שלם",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-036",
+      "latin": "Parivrtta",
+      "he": "מסובב",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-037",
+      "latin": "Parsva",
+      "he": "צד",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-038",
+      "latin": "Parvata",
+      "he": "הר",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-039",
+      "latin": "Paschima",
+      "he": "המערב / הצד האחורי",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-040",
+      "latin": "Pida",
+      "he": "לחיצה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-041",
+      "latin": "Pincha",
+      "he": "נוצה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-042",
+      "latin": "Prasarita",
+      "he": "פרוש / פשוק",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-043",
+      "latin": "Paryanka",
+      "he": "מיטה / ספה",
+      "exam": true,
+      "level": false,
+      "uncertain": false,
+      "exam_original": "Priyanka",
+      "exam_note": "בצילום הבחינה מופיע Priyanka; הזיהוי כ-Paryanka הוא תיקון מוצע, לא נוסח מאומת של הבחינה.",
+      "examples": [
+        "Paryankasana"
+      ]
+    },
+    {
+      "id": "W-044",
+      "latin": "Purva",
+      "he": "מזרח / קדמי",
+      "exam": true,
+      "level": false,
+      "uncertain": false
+    },
+    {
+      "id": "W-045",
+      "latin": "Salabha",
+      "he": "ארבה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-046",
+      "latin": "Salamba",
+      "he": "נתמך",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-047",
+      "latin": "Sarvanga",
+      "he": "כל האיברים",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-048",
+      "latin": "Sava",
+      "he": "גופה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-049",
+      "latin": "Setubandha",
+      "he": "בניית גשר / גשר",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-050",
+      "latin": "Siddha",
+      "he": "מושלם / מיומן",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-051",
+      "latin": "Sirsa",
+      "he": "ראש",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-052",
+      "latin": "Sukha",
+      "he": "נוחות / קלות",
+      "exam": true,
+      "level": false,
+      "uncertain": false
+    },
+    {
+      "id": "W-053",
+      "latin": "Supta",
+      "he": "שכוב",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-054",
+      "latin": "Svana",
+      "he": "כלב",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-055",
+      "latin": "Swastika",
+      "he": "סמל מזל טוב",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-056",
+      "latin": "Tada",
+      "he": "הר",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-057",
+      "latin": "Tittibha",
+      "he": "גחלילית",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-058",
+      "latin": "Trianga",
+      "he": "שלושה איברים",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-059",
+      "latin": "Trikona",
+      "he": "משולש",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-060",
+      "latin": "Upavistha",
+      "he": "יושב",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-061",
+      "latin": "Urdhva",
+      "he": "מעלה",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-062",
+      "latin": "Ustra",
+      "he": "גמל",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-063",
+      "latin": "Utkata",
+      "he": "עוצמתי / עז",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-064",
+      "latin": "Utt",
+      "he": "",
+      "exam": true,
+      "level": false,
+      "uncertain": true,
+      "exam_note": "קיצור לא חד-משמעי בדף הבחינה; ייתכן Uttana או Utthita. אין תשובה יחידה מאומתת; אינו נבחן אוטומטית.",
+      "possible_expansions": [
+        "Uttana",
+        "Utthita"
+      ]
+    },
+    {
+      "id": "W-065",
+      "latin": "Uttana",
+      "he": "מתיחה עזה / מתוח בעוצמה",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-066",
+      "latin": "Utthita",
+      "he": "מתוח / מורם",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-067",
+      "latin": "Viparita",
+      "he": "הפוך",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-068",
+      "latin": "Vira",
+      "he": "גיבור",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-069",
+      "latin": "Virabhadra",
+      "he": "ויראבהדרה (שם לוחם מיתולוגי)",
+      "exam": false,
+      "level": true,
+      "uncertain": false
+    },
+    {
+      "id": "W-070",
+      "latin": "Vrksa",
+      "he": "עץ",
+      "exam": true,
+      "level": true,
+      "uncertain": false
+    }
+  ],
+  "version": "0.3-utt-paryanka-reviewed"
+}
