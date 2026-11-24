@@ -1093,7 +1093,8 @@
       "level": true,
       "uncertain": false,
       "english_review": "Bharadvaja, name of a sage",
-      "translation_review_status": "approved"
+      "translation_review_status": "approved",
+      "asana_part_he": "שמו של חכם הודי (אביו של דרונה)"
     },
     {
       "id": "W-008",
@@ -1186,7 +1187,8 @@
       "english_review": "eagle; Garuda, mythical king of birds",
       "translation_review_status": "approved",
       "review_note": "Iyengar translation: eagle (עיט). Common Hebrew usage is also 'נשר' (griffon vulture); the app uses עיט everywhere for consistency.",
-      "quiz_he": "עיט; מלך העופות במיתולוגיה ההודית"
+      "quiz_he": "עיט; מלך העופות במיתולוגיה ההודית",
+      "asana_part_he": "עיט; מלך העופות במיתולוגיה ההודית"
     },
     {
       "id": "W-017",
@@ -1279,7 +1281,8 @@
       "english_review": "Marichi: ray of light; name of a sage (Marichya = of Marichi, the form used in the asana name)",
       "translation_review_status": "approved",
       "compound_form": "Marichya",
-      "quiz_he": "קרן אור; שמו של חכם הודי"
+      "quiz_he": "קרן אור; שמו של חכם הודי",
+      "asana_part_he": "של מריצ׳י — שם של חכם; פירוש השם: קרן אור"
     },
     {
       "id": "W-026",
@@ -1299,7 +1302,8 @@
       "level": true,
       "uncertain": false,
       "english_review": "Matsyendra: Lord of the fishes; yoga master",
-      "translation_review_status": "approved"
+      "translation_review_status": "approved",
+      "asana_part_he": "אדון הדגים; שמו של מורה יוגה"
     },
     {
       "id": "W-028",
@@ -1737,7 +1741,8 @@
       "uncertain": false,
       "english_review": "Virabhadra, legendary warrior created by Shiva (vira = hero + bhadra = auspicious / friend)",
       "translation_review_status": "approved",
-      "quiz_he": "לוחם אגדי שנוצר על ידי שיווה במיתולוגיה ההודית"
+      "quiz_he": "לוחם אגדי שנוצר על ידי שיווה במיתולוגיה ההודית",
+      "asana_part_he": "שמו של לוחם אגדי שנוצר על ידי שיווה"
     },
     {
       "id": "W-070",
@@ -1772,5 +1777,5 @@
       "review_note": "Alias element in Brahmacharyasana, alternative name of Paschimottanasana. exam flag is a default: adjust if needed."
     }
   ],
-  "version": "2.0"
+  "version": "2.1"
 }
