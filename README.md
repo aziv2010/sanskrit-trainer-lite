@@ -1,3 +1,5 @@
+> Current version: **2.0**. See [UPDATE_NOTES_v2.0.md](UPDATE_NOTES_v2.0.md).
+
 # Sanskrit Trainer Lite — v1.3 — Corrected ambiguous exam terms
 
 One-page, mobile-first Hebrew/Sanskrit learning PWA for Iyengar Yoga Level 1.
@@ -50,3 +52,9 @@ English and romanized Sanskrit now prefer Chalkboard SE Regular with system fall
 - Settings action labels replaced by large explicit Hebrew text plus descriptions: export, import, reset. Existing JavaScript actions and progress storage key unchanged.
 - Service worker cache bumped to v8 so existing installs refresh assets. Existing v1.7 typography and learning functionality retained.
 - On Android after deployment, installed app icons may be cached by the launcher; uninstall/reinstall the home-screen app if the old icon remains. Back up progress first.
+
+## v1.9 — word questions without answer leakage
+- Removed Hebrew phonetic repetitions of the Sanskrit names from six proper-name vocabulary glosses.
+- Sanskrit word ↔ Hebrew meaning prompts and all four multiple-choice choices draw from clean glosses.
+- Reverse questions that cannot distinguish words with an identical Hebrew meaning are automatically reversed for that card and explained on screen.
+- Updated data.json and offline service-worker cache; retained saved progress.
